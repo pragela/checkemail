@@ -7,7 +7,7 @@ function validateEmail(email_id) {
         console.log('The email address is correct');
     }
     else {
-        console.log('The email address is not valid');
+        console.log('The email address is incorrect');
     }
 }
 
