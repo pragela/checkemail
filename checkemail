@@ -12,5 +12,5 @@ function validateEmail(email_id) {
 }
 
 validateEmail('abc123@gmail.com');
-validateEmail('hello@com');
+validateEmail('hello@gmail.com');
 
